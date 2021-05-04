@@ -26,7 +26,6 @@ void main(){
         '/Tela6': (context)=> SextaTela(),
         '/Tela7': (context)=> SetimaTela(),
         },
-
       //Tema do App
       theme: ThemeData(
         primaryColor: Colors.lightBlue[700],
